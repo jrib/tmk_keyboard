@@ -137,4 +137,7 @@ micro: all
 cub: OPT_DEFS += -DKEYMAP_CUB
 cub: all
 
+jrib: OPT_DEFS += -DKEYMAP_JRIB
+jrib: all
+
 
